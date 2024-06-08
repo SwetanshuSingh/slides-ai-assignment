@@ -1,6 +1,6 @@
 import Login from "@/components/Login";
 
-const HomePage = () => {
+const LoginPage = () => {
   return (
     <main className="min-h-screen flex justify-center items-center">
       <Login />
@@ -8,4 +8,4 @@ const HomePage = () => {
   );
 };
 
-export default HomePage;
+export default LoginPage;
